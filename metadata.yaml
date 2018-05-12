@@ -1,0 +1,32 @@
+_repo: Little-Brothers-of-the-Air_27277
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Miller, Olive Thorne
+    aliases:
+    - Miller, Harriet Mann
+    - Thorne, Olive
+    - Mann, Harriet
+    birthdate: 1831
+    deathdate: 1918
+    gutenberg_agent_id: '31220'
+    url: http://www.gutenberg.org/2009/agents/31220
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Mann_Miller
+description: ''
+gutenberg_bookshelf: Animals-Wild-Birds
+gutenberg_issued: '2008-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27277'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds'
+- !lcc 'QL'
+title: Little Brothers of the Air
+url: http://www.gutenberg.org/ebooks/27277
